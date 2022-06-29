@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "AAAA,OAAO,CAAC,8EAAI,CCAZ,AAAA,iBAAiB,AAAC,CAChB,MAAM,CAAN,+KAAM,CACP,ACFD,AAAA,iBAAiB,AAAC,CAChB,MAAM,CAAN,wDAAM,CACP,AFCD,SAAS,CAAT,IAAS,CACT,SAAS,CAAT,UAAS,CACT,SAAS,CAAT,SAAS",
+    "sources": [
+        "../sass/main.scss",
+        "../sass/_general.scss",
+        "../sass/_main_layout.scss"
+    ],
+    "names": [],
+    "file": "main.min.css"
+}

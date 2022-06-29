@@ -1,0 +1,12 @@
+{
+  "hi": "HIIII",
+  "whereInTheWorld": "Where in the world?",
+  "darkMode": "Dark mode",
+  "lightMode": "Light mode",
+  "searchCountry": "Search country",
+  "population": "Population",
+  "region": "Region",
+  "capital": "Capital",
+  "back": "Back",
+  "currency": "Currency: {{currency}}"
+}

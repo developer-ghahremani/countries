@@ -1,0 +1,2 @@
+@import url("https://fonts.googleapis.com/css?family=Nunito:300,600,800&display=swap");.select-component{@apply appearance-none block w-auto px-3 py-1.5 text-base font-normal text-gray-700 bg-white bg-clip-padding bg-no-repeat  rounded transition ease-in-out m-0 outline-none border-none}.navbar-container{@apply flex items-center justify-between max-w-4xl py-4 mx-auto}@tailwind base;@tailwind components;@tailwind utilities
+/*# sourceMappingURL=main.min.css.map */
